@@ -1,0 +1,5 @@
+x= str(input("podaj imie:"))
+y=0
+while y < 5:
+    print(x)
+    y=y+1
